@@ -1,0 +1,18 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.orange-color{
+    color: orange;
+}  
+.highlight{
+    color: orangered;
+}
+.know-me{
+    color: rgb(170, 189, 4);
+}
+section{
+    display: flex;
+}
