@@ -16,3 +16,20 @@ h1{
 section{
     display: flex;
 }
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 67%;
+    padding-top: 8%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(red, tomato);
+    color: white;
+    font-weight: 700;
+    padding: 10px 30px;
+    border-radius: 5px;
+    
+}
