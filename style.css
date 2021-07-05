@@ -51,6 +51,7 @@ h2{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
+    
 }
 .experience-item{
     box-shadow: 10px 10px  35px grey;
@@ -59,4 +60,17 @@ h2{
     margin-right: 5%;
     padding: 30px;
     border-radius: 8px;
+}
+#left-dev{
+    border-left: 7px solid;
+    border-image: linear-gradient(tomato, rgb(182, 5, 218));
+    border-image-slice: 1;
+}
+#right-dev{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+}
+footer P{
+text-align: center;
 }
