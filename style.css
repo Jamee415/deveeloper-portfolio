@@ -14,7 +14,7 @@ h1{
 .know-me{
     color: rgb(170, 189, 4);
 }
-section{
+.flexible{
     display: flex;
     margin-bottom: 100px;
 }
